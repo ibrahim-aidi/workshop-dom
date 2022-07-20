@@ -1,0 +1,17 @@
+*{margin: 0 5%;}
+.panier{
+    margin-top: 50px;
+}
+.firstproduct{display: flex;
+justify-content: flex-start;
+margin-top: 60px;}
+
+.supprimer{text-decoration: none;
+margin-left: 70px;}
+.prix{margin-left: 500px;}
+button{border: none;}
+.secondproduct{margin-top: 60px;}
+.im1{    max-width: 120px;
+    max-height: 120px;
+}
+
